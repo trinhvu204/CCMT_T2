@@ -16,6 +16,7 @@ namespace Demo
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -26,5 +27,7 @@ namespace Demo
         {
 
         }
+=======
+>>>>>>> 3491b5a0bf82f6406dcdbb2c7206e307ff40397f
     }
 }
